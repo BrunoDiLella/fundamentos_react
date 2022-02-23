@@ -25,6 +25,8 @@ yarn add webpack webpack-cli webpack-dev-server -D
 webpack.config.js
 
 yarn add babel-loader - D
+yarn add html-webpack-plugin -D 
+yarn add webpack-dev-server -D 
 
 ##
 
