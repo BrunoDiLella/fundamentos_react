@@ -1,0 +1,11 @@
+{
+  "name": "fundamentos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bruno Gonçalves <brgoncalves@hotmail.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
