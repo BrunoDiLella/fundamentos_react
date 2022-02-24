@@ -4,6 +4,11 @@
   "main": "index.js",
   "author": "Bruno Gonçalves <brgoncalves@hotmail.com.br>",
   "license": "MIT",
+
+  "scripts": {
+    "dev": "webpack serve",
+    "build": "cross-env NODE_ENV=production webpack"
+  },
   "dependencies": {
     "-": "^0.0.1",
     "D": "^1.0.0",

@@ -28,5 +28,12 @@ yarn add babel-loader - D
 yarn add html-webpack-plugin -D 
 yarn add webpack-dev-server -D 
 
+source maps
+const isDevelopment = process.env.NODE_ENV !== 'production';
+
+Terminal: NODE_ENV=production webpack
+
+yarn add cross-env -D
+scripts packaga.json
 ##
 
